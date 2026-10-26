@@ -1,4 +1,4 @@
-# generic-dashboard
+## Generic dashboard v1
 A versatile dashboard designed for the Simagic MagicDash 4, built to display the most important telemetry data for a wide range of road and race cars. Combining a clean, modern layout with an intuitive design, it provides essential driving information at a glance.
 
 Designed for everyday use across different vehicle types, this dashboard keeps essential telemetry clear, accessible, and easy to read while driving.
@@ -18,3 +18,11 @@ Designed for everyday use across different vehicle types, this dashboard keeps e
 
 <img width="803" height="479" alt="image" src="https://github.com/user-attachments/assets/5ccb88c3-5fba-49c0-bc8f-800edb249408" />
 
+## Installation
+
+1. Download the `.simhubdash` file from this repository.
+2. Open **SimHub** and navigate to the **Dash Studio** section.
+3. Import the downloaded file using the dashboard import option.
+4. Once imported, select the dashboard and assign it to your **Simagic MagicDash 4** display.
+
+The dashboard is now ready to use. Make sure SimHub is running and your device is properly connected before starting a session.
